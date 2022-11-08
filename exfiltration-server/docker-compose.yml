@@ -1,0 +1,6 @@
+version: '3'
+services:
+  exfiltration-server:
+    build: .
+    ports:
+      - 8040:8040

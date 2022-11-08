@@ -1,0 +1,7 @@
+{
+  "password": "password-here",
+  "user": "username-here",
+  "host": "0.0.0.0",
+  "port": 55553,
+  "ssl": true
+}

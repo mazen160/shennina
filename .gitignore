@@ -1,0 +1,13 @@
+__pycache__
+tests/
+config/msfrpc-config.json
+.scans/
+*.pyc
+model*h5
+*.png
+data/exploits_array.txt
+pwn_model.h5
+debug.py
+main.py
+data/second_brain.json
+venv/
